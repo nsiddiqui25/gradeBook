@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\pluralSightProjects\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+      "projectUniqueName": "X:\\PluralSight\\gradeBook\\gradebook\\src\\GradeBook\\GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "X:\\pluralSightProjects\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+      "projectPath": "X:\\PluralSight\\gradeBook\\gradebook\\src\\GradeBook\\GradeBook.csproj",
       "packagesPath": "C:\\Users\\nsiddiqui\\.nuget\\packages\\",
-      "outputPath": "X:\\pluralSightProjects\\gradebook\\src\\GradeBook\\obj\\",
+      "outputPath": "X:\\PluralSight\\gradeBook\\gradebook\\src\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

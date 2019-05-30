@@ -9,3 +9,14 @@ X:\pluralSightProjects\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook
 X:\pluralSightProjects\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
 X:\pluralSightProjects\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
 X:\pluralSightProjects\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
+X:\PluralSight\gradeBook\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+X:\PluralSight\gradeBook\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+X:\PluralSight\gradeBook\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+X:\PluralSight\gradeBook\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+X:\PluralSight\gradeBook\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+X:\PluralSight\gradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+X:\PluralSight\gradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+X:\PluralSight\gradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+X:\PluralSight\gradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+X:\PluralSight\gradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+X:\PluralSight\gradeBook\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
